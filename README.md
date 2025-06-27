@@ -12,8 +12,8 @@
 - 🎯 **Aspiring Python Developer | Open-Source Contributor**
 - 💡 Passionate about **automation, DevOps, and building real-world projects**
 - 🎓 Learning **GitHub, DevOps, and Python backend development**
-- 🚀 Contributed to **yt-dlp** and open-source projects  
-- 💬 Ask me about **Python, GitHub, Open Source & DevOps**  
+- 🚀 Contributed to **meshery** and open-source projects 
+- 💬 Ask me about **DevOps, GitHub, Open Source & DevOps**  
 - 🌱 Currently improving my **Django & Flask skills**  
 - 🔭 Working on **a College Networking Platform & DevOps Automation Projects**  
 
